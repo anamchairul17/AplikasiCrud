@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "734882904180",
+    "firebase_url": "https://aplikasicrud-b05de.firebaseio.com",
+    "project_id": "aplikasicrud-b05de",
+    "storage_bucket": "aplikasicrud-b05de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:734882904180:android:9847096d24aed535e1f921",
+        "android_client_info": {
+          "package_name": "com.itdev.aplikasicrud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "734882904180-4ce6gpu50jh4sq0raupi2ucdmogatk3n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD50-fK_JjR9h0eOtSkbK7iI5Wf8URhaUA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "734882904180-4ce6gpu50jh4sq0raupi2ucdmogatk3n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
